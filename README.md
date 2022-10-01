@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">Game Developer from Turkey</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6F70E&width=435&lines=Hi!+I'm+Mehmet.;I'm+Game+Developer+from+Turkey.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **CMOS Teknoloji as a Game Developer**
 
