@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehmetaacar" target="blank"><img src="https://img.shields.io/twitter/follow/mehmetaacar?logo=twitter&style=for-the-badge" alt="mehmetaacar" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetaacar&" alt="mehmetaacar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetaacar&theme=highcontrast&" alt="mehmetaacar" /></p>
 
 
 - 🔭 I’m currently working on **CMOS Teknoloji as a Game Developer**
@@ -28,5 +28,5 @@
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="unity" width="80" height="40"/> </a>  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_orange.svg" alt="blender" width="40" height="40"/> </a> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaacar&show_icons=true&locale=en" alt="mehmetaacar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaacar&theme=highcontrast&show_icons=true&locale=en" alt="mehmetaacar" /></p>
 
