@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6F70E&width=435&lines=Hi!+I'm+Mehmet.;I'm+Game+Developer+from+Turkey.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=E5F700&background=FF000000&width=435&lines=Hi!+I'm+Mehmet.;I'm+Game+Developer+from+Turkey.;And+also+Mechatronics+Engineer+too.)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://twitter.com/mehmetaacar" target="blank"><img src="https://img.shields.io/twitter/follow/mehmetaacar?logo=twitter&style=for-the-badge" alt="mehmetaacar" /></a> </p>
 
