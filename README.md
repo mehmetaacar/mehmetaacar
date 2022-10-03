@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mehmetaacar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehmetaacar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehmetaacar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetaacar" height="30" width="40" /></a>
-<a href="https://instagram.com/mehmetaacar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetaacar1" height="30" width="40" /></a>
+<a href="https://twitter.com/mehmetaacar" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=twitter&label=&message=twitter&color=blue" alt="mehmetaacar"/></a>
+<a href="https://linkedin.com/in/mehmetaacar" target="blank"><img align="center" src="https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=darkblue" alt="mehmetaacar"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
