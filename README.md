@@ -2,7 +2,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetaacar&theme=highcontrast&show_icons=true&locale=en" alt="mehmetaacar" /></p>
 
 
-- 🔭 I’m currently working on **CMOS Teknoloji as a Game Developer**
+- 🔭 I’m currently working on **CMOS Teknoloji  as a Game Developer**
 
 - 💬 Ask me about **C#, Unity, Arduino, Raspberry Pi**
 
