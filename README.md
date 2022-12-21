@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **CMOS Teknoloji as a Game Developer**
 
-- 💬 Ask me about **C#, Unity, Arduino**
+- 💬 Ask me about **C#, Unity, Arduino **
 
 - 📫 Directly contact: **mehmetaacar1@gmail.com**
 
